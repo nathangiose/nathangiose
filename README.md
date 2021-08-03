@@ -7,7 +7,24 @@ I am a hard-working, goal-driven leader that makes the best out of every moment.
 Skills: JS / HTML / CSS / PYTHON / VBScript / VB.NET / SASS
 
 - 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning all the code I already know, to the fullest. 
+- 🤔 I’m looking for help with Vanilla JavaScript and three.js 
+- 📫 How to reach me: You can email nathangiose@gmail.com 
+- ⚡ Fun fact: Full-Stack Developers are Developers Lite 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathangiose)](https://github.com/anuraghazra/github-readme-stats)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nathangiose)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/nathangiose/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/nathangiose)  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=nathangiose)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathangiose)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nathangiose&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nathangiose)  
+
+![GitHub metrics](https://metrics.lecoq.io/nathangiose)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nathangiose)  
+
+![Profile views](https://gpvc.arturio.dev/nathangiose)  
