@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Vanilla JavaScript and threejs
 - 🤔 I’m looking for help with development in JavaScript
 - 💬 Ask me about Servers, and I'll tell you something
-- 📫 How to reach me: fill in the contact form on nathanjohngiose.netlify.app 
+- 📫 How to reach me: fill in the contact form on <a href="nathangiose-fe.netlify.app">nathanjohngiose.netlify.app</a>
 - ⚡ Fun fact: Linkedin gives the best courses if you buy premium
 
 
