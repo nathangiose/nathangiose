@@ -4,11 +4,14 @@
 
 I am a hard-working, goal-driven leader that makes the best out of every moment. I always work towards getting the best results. I am empathic by nature so I always do things in a way that everyone will be happy. I have pronounced troubleshooting skills. My communication and interaction with peers, managers, and supervisors are excellent- when the need arises. I have always been interested in modernizing and creating content on computers.
 
-Skills: JS / HTML / CSS / PYTHON / VBScript / VB.NET / SASS
+Skills: JS / HTML / CSS / PYTHON / VBScript / VB.NET / SASS / VUE 
+Databases: SQL / NoSQL / Mongodb / Postgres&PGadmin4 
+
+
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning all the code I already know, to the fullest. 
-- 🤔 I’m looking for help with Vanilla JavaScript and three.js 
+- 🤔 I’m looking for help with Vanilla JavaScript, three.js, and C# 
 - 📫 How to reach me: You can email nathangiose@gmail.com 
 - ⚡ Fun fact: Full-Stack Developers are Developers Lite 
 
